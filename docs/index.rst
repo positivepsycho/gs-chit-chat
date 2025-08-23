@@ -139,3 +139,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    heart-inside
 
    now
+
+   aim

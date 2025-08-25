@@ -12,8 +12,6 @@ carpe diem(All human writing carries an autobiographical meaning)
    
    fear_ornot
    
-   how_to_be_a_rich_man
-   
    blog writing
    
    invest_guidance
@@ -23,6 +21,8 @@ carpe diem(All human writing carries an autobiographical meaning)
    mirror_mirror
    
    ml_checklist
+
+   how_to_be_a_rich_man
    
    Festinger's_rule
    

@@ -24,6 +24,8 @@
 
 AI的机遇：
 
+CSDN
+
 key-words: AI/芯片/半导体/人工智能/新质生产力/大模型/deepseek/gpt/算力/智能体/agent/半导体设备/模拟芯片/
 
 AI-Agent的机遇，爬虫的技能，培训的技能，知识库RAG赋能带来的机会。

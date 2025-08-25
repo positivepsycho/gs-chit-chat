@@ -6,9 +6,13 @@ Life is a journey full of mystery and the truth in it is about the process rathe
 
 One and all, the destination is just an illusion.
 
+
 **Conclusion：**
 
 First，conclusion
+
 Second，make progress everyday
+
 Third，take it easy
+
 Fourth，fuck-it.

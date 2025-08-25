@@ -98,7 +98,7 @@ carpe diem(All human writing carries an autobiographical meaning)
 
    heart
 
-   greedy
+   greedy_1
 
    cognition
 

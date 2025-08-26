@@ -18,9 +18,11 @@
 
 热点信息：https://tools.lhagi.com/hotnews/
 
-工具平台：参考GPT-Repo：gpt4(openAI),grok(xAI),claude(Anthropic),Meta,Moonshot,MinMax,01.AI,deepseek，Alibaba，Tecent,ByteDance，etc.
+工具平台（工具链）：参考GPT-Repo：gpt4(openAI),grok(xAI),claude(Anthropic),Meta,Moonshot,MinMax,01.AI,deepseek，Alibaba，Tecent,ByteDance，etc.
 
-百度、36氪、吾爱破解、豆瓣、B站、抖音、知乎、微博、少数派、电商报、IT热门资讯、IT咨询最新、虎扑、百度贴吧、雪球等；
+热点信息：百度、36氪、吾爱破解、豆瓣、B站、抖音、知乎、微博、少数派、电商报、IT热门资讯、IT咨询最新、虎扑、百度贴吧、雪球等；
+
+信息平台：小红书、微博、B站、Tik Tok、雪球等；
 
 -----------------------------------------------------------------------------------------------------
 

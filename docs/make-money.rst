@@ -27,7 +27,7 @@
 
 **热点信息：**
 
-https://tools.lhagi.com/hotnews/
+https://tools.lhagi.com/hotnews/     https://rebang.today/?tab=ithome
 
 工具平台（工具链）：参考GPT-Repo：gpt4(openAI),grok(xAI),claude(Anthropic),Meta,Moonshot,MinMax,01.AI,deepseek，Alibaba，Tecent,ByteDance，etc.
 

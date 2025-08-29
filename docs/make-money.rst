@@ -1,7 +1,9 @@
-﻿niu-market-make-it-somethin
+﻿NIU-Market（opportunity）：Rewrite the stars of one’s own destiny
 ============================
 
 随笔七十 打工/上班只是一种形式，赚钱才是目的
+随笔七十 当前牛市/这种十年甚至几十年一次的机会如何抓住
+
 
 世上无废品，只有错位的资源！想变废为宝也简单，请做对三件事，充分挖掘自身优势，去资源充沛的地方，进行高频需求匹配
 

@@ -198,4 +198,35 @@ A real-time streaming data processing system based on Kafka and SparkStreaming w
 
 The online information filtering system is realized by using SparkStreaming and OneClassLearning (using OneClassSVM model in sklearn library) model. In the real social network data scenario, the data access system usually encounters a large amount of advertising information and spam information every second. Using the information filtering system can not only improve the system operation efficiency, but also greatly save storage resources in the backend. SparkStreaming receives and processes social text information in message queue (Kafka) in real time and apply trained OneClassSVM model to predict the real-time social text message with a tag. If the tag is displayed as spam, the system will filter out the message directly in the following steps. The training of the OneClassSVM model includes text processing (including corpus sorting, text filtering, word segmentation, stopping words and vectorization representation), kernel function selection and parameter tuning. The evaluation indexes of the model are precision rate (0.95) and recall rate (0.89).
 
+-----------------------------------------------------------------------------------------------------
+
+美埃科技（晶圆扩产，类似英科医疗）、鼎捷数智（AI Agent，阿里系）、芯碁微装（PCB设备）、合合信息（扫描，信息数字化）、达梦数据（一体机）、普元信息（AI编程）、长光华芯（光芯片）、茂莱光学（光刻机）、景嘉微（摩尔线程类似）、恒玄科技+晶辰股份（Soc，AI眼镜）、天孚通信（光芯片）、
+
+cover: 民12，招10.5，度20
+
+AI ageent：鼎捷、普元、达梦、卓易、汉得、赛意、合合、
+
+PCB：兴森、生益科技、南亚新材、华正新材、芯碁微装、东威科技、金安国纪、鹏鼎控股、沪电股份、
+
+高功率：英诺赛科、天岳、杰华特、
+
+光芯片：长光华芯、亨通光电、光迅科技、
+
+晶圆厂：美埃、
+
+液冷：高澜股份、曙光数创、飞荣达、华峰铝业、
+
+铜连接：沃尔核材、
+
+物理AI：索辰、
+
+SOC：泰凌微、全志科技、
+
+机房：润泽科技、
+
+服务器电源+供电：晶丰明源、希荻微
+
+光刻机：波长光电、福光股份、
+
+交换机芯片：盛科通信、
 

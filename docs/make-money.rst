@@ -1,4 +1,4 @@
-﻿NIU-Market（opportunity+do sth）：Rewrite destiny & make it happen
+﻿NIU-Market（opportunity+do sth）：Rewrite destiny & make it happen+all_in_ai
 ============================
 
 From Ordinary to Unconstrained: How a Young Man Seized the AI Bull Market to Achieve Financial Freedom  

@@ -177,3 +177,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    ambition_article
 
    Abundance_is_a_Life_Style
+
+   born_to_win

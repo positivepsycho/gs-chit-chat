@@ -114,13 +114,31 @@ Consider distillation techniques to create smaller, faster models for deployment
 
 The Transformer didn't just improve translation - it fundamentally changed how we approach sequence modeling, paving the way for GPT, BERT, and the current AI revolution.
 
-
 当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法:破除旧有操作模式+突破创新适应AI牛玩法 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
 
 cover: min'12，zhao'10.5，du'20:：核心观点是 AI 带动半导体产业大爆发（工业革命级别 ），2023 - 2025 年行业虽爆炸式增长但供需缺口仍扩大，未来半导体工艺沿密度提升、先进封测、系统级优化发展，长期看半导体先进设备材料、制造与封装是发展核心 。
 
-PCB+SOC+算力+物理AI+具身智能+人形机器人+AIOT+液冷+电源+agent+光模块+存储+CIS+材料+设计:：美埃科技（晶圆扩产，类似英科医疗）、鼎捷数智（AI Agent，阿里系）、芯碁微装（PCB设备）、合合信息（扫描，信息数字化）、达梦数据（一体机）、普元信息（AI编程）、长光华芯（光芯片）、茂莱光学（光刻机）、景嘉微（摩尔线程类似）、恒玄科技+晶辰股份（Soc，AI眼镜）、天孚通信（光芯片）、安培龙（传感器）、生益科技+生益电子（PCB）、兴森科技（PCB）、建滔积层板（PCB）、伟测科技（封装）、盛科通信（交换机芯片）、光科技（波长光电、福光股份）、服务器电源+供电（晶丰明源、希荻微、麦格米特）、机房（润泽科技）、Soc(泰凌微、全志科技)、AI agent(鼎捷、普元、达梦、卓易、汉得、赛意、合合)、PCB(兴森、生益科技、南亚新材、华正新材、芯碁微装、东威科技、金安国纪、鹏鼎控股、沪电股份)、高功率（英诺赛科、天岳、杰华特）、光芯片（长光华芯、亨通光电、光迅科技）、液冷（高澜股份、曙光数创、飞荣达、华峰铝业）、铜连接（沃尔核材）、物理AI（索辰）、中巨芯（半导体材料）：：当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法: 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
+GPT is a deep learning neural network that analyzes prompts made up of natural language, images, or sounds to predict the best possible response based on its interpretation of the input. To do this, it’s trained with massive datasets using hundreds of billions of parameters. GPT references that learning to weight the importance of different components in a sequence, such as words in a sentence or parts of images or sounds. The weighting allows it to infer relevance and context so that it can generate content that makes sense with the prompt.
 
+In 2018, OpenAI released the first generation of GPT, which was built on that architecture GPT-1 was trained on over 1.5 billion parameters and can generate text, answer questions, translate languages, and summarize text, but it has a hard time understanding context and struggles with long passages of text. 
+
+Every couple of years since then, OpenAI has released a new version of GPT each trained on successively larger datasets. With each release, the technology improves its ability to understand context and write fluently and coherently. It continues to add new skills, such as creating computer code, performing tasks with little or no examples, and analyze vast amounts of data. 
+
+To be effective, GPT must be able to parse and interpret a myriad of prompts and requests. It prepares for this by training on massive datasets, including large text corpora, using unsupervised deep learning, a subset of machine learning. In unsupervised learning the model teaches itself to find patterns in unlabeled data without guidance from humans. GPT uses computer vision to identify and understand objects and people in images.
+
+GPT can also be trained for very specific scenarios, such as for an industry, like banking or law. In these instances, supervised learning is used, which means that training data is labeled by humans.
+
+GPT is built on the transformer architecture, which uses the self-attention mechanism to analyze different components of a prompt and their relationship to each other to interpret context and meaning. For example, the word “cloud” can refer to condensed vapor in the sky or, as in cloud computing, a technology platform. People and GPT determine which version of the word is appropriate by evaluating the meaning of the other words surrounding it in a sentence or paragraph.
+
+The transformer architecture is able to do this by turning words and their meaning into mathematics. It breaks up text, images, and sounds into smaller pieces called tokens. The tokens are assigned a vector, which encodes meaning. The encoded vectors, called embeddings, are then sent through an attention block where they exchange information and make updates to the vectors as appropriate. Once GPT has determined the meaning of the prompt, it produces a prediction in the form of a probability distribution and suggests the next word, image, or sound in the sequence. By repeating this process over and over, it can write long passages or carry on a conversation.
+
+The architecture is made up of two parts:
+
+Encoder. The encoder is the part of the system that breaks down text, images, and sounds into mathematical embeddings. Each embedding is assigned a weight, which tells it how relevant it is to the context and meaning. The embeddings are then compared to each other using the self-attention mechanism to further refine their meaning.
+
+Decoder. The decoder uses the vectors and weights to determine possible outputs and predict the best one. Because the most current versions of GPT have been trained on so much data, they’ve gotten quite good at using this process to write fluent and coherent text. 
+
+PCB+SOC+算力+物理AI+具身智能+人形机器人+AIOT+液冷+电源+agent+光模块+存储+CIS+材料+设计:：美埃科技（晶圆扩产，类似英科医疗）、鼎捷数智（AI Agent，阿里系）、芯碁微装（PCB设备）、合合信息（扫描，信息数字化）、达梦数据（一体机）、普元信息（AI编程）、长光华芯（光芯片）、茂莱光学（光刻机）、景嘉微（摩尔线程类似）、恒玄科技+晶辰股份（Soc，AI眼镜）、天孚通信（光芯片）、安培龙（传感器）、生益科技+生益电子（PCB）、兴森科技（PCB）、建滔积层板（PCB）、伟测科技（封装）、盛科通信（交换机芯片）、光科技（波长光电、福光股份）、服务器电源+供电（晶丰明源、希荻微、麦格米特）、机房（润泽科技）、Soc(泰凌微、全志科技)、AI agent(鼎捷、普元、达梦、卓易、汉得、赛意、合合)、PCB(兴森、生益科技、南亚新材、华正新材、芯碁微装、东威科技、金安国纪、鹏鼎控股、沪电股份)、高功率（英诺赛科、天岳、杰华特）、光芯片（长光华芯、亨通光电、光迅科技）、液冷（高澜股份、曙光数创、飞荣达、华峰铝业）、铜连接（沃尔核材）、物理AI（索辰）、中巨芯（半导体材料）：：当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法: 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
 
 一句话总结:AI 将 PCB 产业链切成 “高端稀缺、中低端过剩” 的两极：2025-2027 年 高多层 + 超低损耗 + ABF 载板 缺口最大，沪电、生益、兴森 等龙头订单与利润率将持续超预期。“英诺赛科+杰华特+麦格米特” 已构成国内 GaN/SiC+多相+PSU 三大核心环节；，将随 AI 机架功率从 54 V→800 V 的升级而迎来 10 倍级市场扩张。
 

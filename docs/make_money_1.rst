@@ -121,8 +121,64 @@ cover: min'12，zhao'10.5，du'20:：核心观点是 AI 带动半导体产业大
 
 PCB+SOC+算力+物理AI+具身智能+人形机器人+AIOT+液冷+电源+agent+光模块+存储+CIS+材料+设计:：美埃科技（晶圆扩产，类似英科医疗）、鼎捷数智（AI Agent，阿里系）、芯碁微装（PCB设备）、合合信息（扫描，信息数字化）、达梦数据（一体机）、普元信息（AI编程）、长光华芯（光芯片）、茂莱光学（光刻机）、景嘉微（摩尔线程类似）、恒玄科技+晶辰股份（Soc，AI眼镜）、天孚通信（光芯片）、安培龙（传感器）、生益科技+生益电子（PCB）、兴森科技（PCB）、建滔积层板（PCB）、伟测科技（封装）、盛科通信（交换机芯片）、光科技（波长光电、福光股份）、服务器电源+供电（晶丰明源、希荻微、麦格米特）、机房（润泽科技）、Soc(泰凌微、全志科技)、AI agent(鼎捷、普元、达梦、卓易、汉得、赛意、合合)、PCB(兴森、生益科技、南亚新材、华正新材、芯碁微装、东威科技、金安国纪、鹏鼎控股、沪电股份)、高功率（英诺赛科、天岳、杰华特）、光芯片（长光华芯、亨通光电、光迅科技）、液冷（高澜股份、曙光数创、飞荣达、华峰铝业）、铜连接（沃尔核材）、物理AI（索辰）、中巨芯（半导体材料）：：当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法: 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
 
+
 一句话总结:AI 将 PCB 产业链切成 “高端稀缺、中低端过剩” 的两极：2025-2027 年 高多层 + 超低损耗 + ABF 载板 缺口最大，沪电、生益、兴森 等龙头订单与利润率将持续超预期。“英诺赛科+杰华特+麦格米特” 已构成国内 GaN/SiC+多相+PSU 三大核心环节；，将随 AI 机架功率从 54 V→800 V 的升级而迎来 10 倍级市场扩张。
 
+GPT, or Generative Pre-trained Transformer, is a type of large language model (LLM) designed for natural language processing (NLP) tasks. It generates human-like text by predicting the next word in a sequence based on the context of preceding words. GPT models are built on transformer architecture, which uses advanced neural networks and attention mechanisms to process and generate text.
+
+**Key Components of GPT**
+
+**Pre-training**
+
+GPT undergoes a pre-training phase where it learns patterns, grammar, and context from massive datasets, such as books, websites, and other publicly available text. This phase involves unsupervised learning, where the model predicts the next word in a sentence without labeled data. The model refines billions (or even trillions) of parameters during this process, enabling it to generalize across diverse topics.
+
+**Transformer Architecture**
+
+The transformer architecture is the backbone of GPT. It uses self-attention mechanisms to process input sequences in parallel, rather than sequentially. This allows the model to capture long-range dependencies and relationships between words, making it highly efficient for understanding context. The architecture includes two main components:
+
+Encoders: Map input tokens into vector representations (embeddings) based on their meaning and position.
+
+Decoders: Generate output by predicting the most probable next token using the embeddings.
+
+**Fine-tuning**
+
+After pre-training, GPT undergoes fine-tuning on specific tasks, such as answering questions, summarizing text, or generating code. This step involves supervised learning, where the model is trained on labeled datasets to improve its performance for targeted applications.
+
+**Contextual Understanding**
+
+GPT uses contextual embeddings to understand the meaning of words based on their surrounding context. This dynamic representation allows the model to adapt its understanding of a word depending on how it is used in a sentence.
+
+**How GPT Generates Text**
+
+When a user provides a prompt, GPT tokenizes the input into smaller units (tokens) and processes them through its transformer layers. It calculates probabilities for the next token based on the input context and selects the most likely one. This process repeats iteratively to generate coherent and contextually relevant text.
+
+**For example:**
+
+Input: "The capital of France is"
+
+GPT predicts the next token: "Paris"
+
+Output: "The capital of France is Paris."
+
+**Applications**
+
+GPT models are versatile and used in various domains, including:
+
+Chatbots and Virtual Assistants: Powering conversational AI like ChatGPT.
+
+Content Creation: Generating articles, summaries, and creative writing.
+
+Language Translation: Translating text between languages.
+
+Coding Assistance: Writing and debugging code.
+
+Data Analysis: Summarizing and interpreting large datasets.
+
+**Strengths and Limitations**
+
+GPT excels in generating human-like text and understanding context, but it has limitations. It may produce inaccurate or biased outputs due to the biases in its training data. Additionally, it lacks true comprehension and relies solely on patterns in the data it has seen.
+
+By leveraging its transformer-based architecture and extensive training, GPT has revolutionized NLP, enabling applications that were previously unattainable. However, careful use and oversight are essential to mitigate risks like misinformation and ethical concerns.
 
 
 

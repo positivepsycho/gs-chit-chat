@@ -197,3 +197,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    to_be_or_not_to_be
 
    what_I_lived_for
+
+   work_and_pleasure

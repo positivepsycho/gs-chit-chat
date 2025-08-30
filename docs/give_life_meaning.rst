@@ -1,4 +1,4 @@
-﻿随笔七十七 Facing the Enemies Within
+﻿随笔七十八 Giving life meaning
 ============================
 
 Have you thought about what you want people to say about you after you’re gone? Can you hear the voice saying, “He was a great man.” Or “She really will be missed.” What else do they say?

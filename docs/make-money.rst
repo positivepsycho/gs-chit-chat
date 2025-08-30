@@ -73,7 +73,7 @@ For Alex, financial freedom wasn’t the end goal—it was the beginning. “Now
 
 **热点信息：**
 
-https://tools.lhagi.com/hotnews/     https://rebang.today/?tab=ithome
+https://tools.lhagi.com/hotnews/     https://rebang.today/?tab=ithome        https://www.gsdata.cn/
 
 工具平台（工具链）：参考GPT-Repo：gpt4(openAI),grok(xAI),claude(Anthropic),Meta,Moonshot,MinMax,01.AI,deepseek，Alibaba，Tecent,ByteDance，etc.
 

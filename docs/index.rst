@@ -181,3 +181,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    born_to_win
 
    John_Kennedy
+
+   Gettysburg_Address

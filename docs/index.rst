@@ -173,3 +173,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    recovery_rate
 
    When_Love_Beckons_You
+
+   ambition_article

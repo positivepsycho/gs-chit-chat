@@ -1,4 +1,4 @@
-make-money & have a life not just survive
+MAKE-MONEY & HAVE A LIFE NOT JUST SURVIVE
 ============================
 
 From Ordinary to Unconstrained: How a Young Man Seized the AI Bull Market to Achieve Financial Freedom  

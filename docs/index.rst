@@ -185,3 +185,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    Gettysburg_Address
 
    life_like_poem
+
+   goodness_of_life

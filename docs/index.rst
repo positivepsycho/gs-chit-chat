@@ -179,3 +179,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    Abundance_is_a_Life_Style
 
    born_to_win
+
+   John_Kennedy

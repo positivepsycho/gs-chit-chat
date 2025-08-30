@@ -191,3 +191,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    road_to_success
 
    happy_door
+
+   love_of_beauty

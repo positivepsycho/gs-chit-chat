@@ -201,3 +201,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    work_and_pleasure
 
    50_percent_theory_of_life
+
+   October_Sunrise

@@ -42,8 +42,6 @@ For Alex, financial freedom wasn’t the end goal—it was the beginning. “Now
 
 打工/上班只是一种形式，赚钱才是目的
 
-当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法: 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
-
 -----------------------------------------------------------------------------------------------------
 
 
@@ -203,6 +201,8 @@ A real-time streaming data processing system based on Kafka and SparkStreaming w
 The online information filtering system is realized by using SparkStreaming and OneClassLearning (using OneClassSVM model in sklearn library) model. In the real social network data scenario, the data access system usually encounters a large amount of advertising information and spam information every second. Using the information filtering system can not only improve the system operation efficiency, but also greatly save storage resources in the backend. SparkStreaming receives and processes social text information in message queue (Kafka) in real time and apply trained OneClassSVM model to predict the real-time social text message with a tag. If the tag is displayed as spam, the system will filter out the message directly in the following steps. The training of the OneClassSVM model includes text processing (including corpus sorting, text filtering, word segmentation, stopping words and vectorization representation), kernel function selection and parameter tuning. The evaluation indexes of the model are precision rate (0.95) and recall rate (0.89).
 
 -----------------------------------------------------------------------------------------------------
+
+当前AI/这种十年甚至几十年一次的机会如何抓住，改变自己的一切，机会在了，怎么变成实实在在的肉和命（心法:破除旧有操作模式+突破创新适应AI牛玩法 明目标，有信心，保耐心，气平和，看风向，抓趋势，灵活动，不恋战，不死扛）
 
 cover: min'12，zhao'10.5，du'20:：核心观点是 AI 带动半导体产业大爆发（工业革命级别 ），2023 - 2025 年行业虽爆炸式增长但供需缺口仍扩大，未来半导体工艺沿密度提升、先进封测、系统级优化发展，长期看半导体先进设备材料、制造与封装是发展核心 。
 

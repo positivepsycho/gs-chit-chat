@@ -167,3 +167,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    be_happy
 
    face_enemy_within
+
+   give_life_meaning

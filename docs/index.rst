@@ -175,3 +175,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    When_Love_Beckons_You
 
    ambition_article
+
+   Abundance_is_a_Life_Style

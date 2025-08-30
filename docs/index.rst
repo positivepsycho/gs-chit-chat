@@ -199,3 +199,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    what_I_lived_for
 
    work_and_pleasure
+
+   50_percent_theory_of_life

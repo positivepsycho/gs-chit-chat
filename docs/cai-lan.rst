@@ -1,21 +1,17 @@
-﻿随笔七十二 蔡澜
+﻿随笔七十二 Chua Lam
 ============================
 
-1，蔡澜
+Chua Lam, one of Asia's most renowned food critics and columnists to make a mark on Hong Kong's entertainment and culinary scene, died on Wednesday at the age of 83.
 
-2，云南（保山、曲靖）
+His death was announced on Chua's social media account on Friday afternoon, with the post saying that he died peacefully at the Hong Kong Sanatorium and Hospital in the company of his family and friends.
 
-3，胖
+"In accordance with Chua's wishes, no ceremony will be held, and his body was cremated to avoid disturbing his relatives and friends," the post said.
 
-4，first
+A legendary writer, producer, and one of the “Four Talents of Hong Kong”，his wit and love for life inspired generations.
 
-5，power
+蔡澜+云南（保山、曲靖）+胖+first+少min+听+
 
-6，少
 
-7，听
-
-8，甜
 
 -----------------------------------------------------------------------------------------------------
 

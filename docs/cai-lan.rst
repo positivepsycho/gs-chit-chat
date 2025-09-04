@@ -23,7 +23,7 @@ Throughout his career, Chua Lam has continuously offered insights, recommendatio
 
 -----------------------------------------------------------------------------------------------------
 
-Chua Lam (蔡瀾), born on August 18, 1941, in Singapore, is a renowned cultural icon in Asia, celebrated for his diverse body of work and his passion for living fully. His life is a fascinating tale of curiosity, creativity, and a deep appreciation for the finer things in life, ranging from food and cinema to literature and travel. Chua Lam embodies the philosophy of “savoring life,” which has made him a beloved figure in Hong Kong, mainland China, and beyond. Below is a detailed account of his life and career:
+Chua Lam, born on August 18, 1941, in Singapore, is a renowned cultural icon in Asia, celebrated for his diverse body of work and his passion for living fully. His life is a fascinating tale of curiosity, creativity, and a deep appreciation for the finer things in life, ranging from food and cinema to literature and travel. Chua Lam embodies the philosophy of “savoring life,” which has made him a beloved figure in Hong Kong, mainland China, and beyond. Below is a detailed account of his life and career:
 
 **Early Life and Background**
 

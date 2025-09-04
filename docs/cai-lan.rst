@@ -9,7 +9,7 @@ His death was announced on Chua's social media account on Friday afternoon, with
 
 A legendary writer, producer, and one of the “Four Talents of Hong Kong”，his wit and love for life inspired generations.
 
-蔡澜+云南（保山、曲靖）+胖+first+少min+听+
+蔡澜+云南（保山、曲靖）+胖+first+少min+听+避坑指南（ABC）+
 
 
 

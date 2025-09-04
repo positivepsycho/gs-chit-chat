@@ -7,11 +7,11 @@
 
 3，胖
 
-4, first
+4，first
 
-5, power
+5，power
 
-6, 少
+6，少
 
 7，听
 

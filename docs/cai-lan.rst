@@ -11,7 +11,7 @@ His death was announced on Chua's social media account on Friday afternoon, with
 
 A legendary writer, producer, and one of the “Four Talents of Hong Kong”，his wit and love for life inspired generations.
 
-蔡澜+保山/曲靖+胖+first+少min+听+避坑指南（ABC）+
+蔡澜+保山/曲靖+胖+首+少+黑+听+避坑指南（ABC）+
 
 Chua Lam is a prominent figure in the Asian culinary world, known for his expertise as a food critic, columnist, and gastronomic influencer. With a career spanning decades, Chua Lam has established himself as one of the most revered and influential voices in the realm of food and dining.
 

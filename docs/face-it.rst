@@ -14,6 +14,10 @@
 以解决问题的态度认识世界
 -----------------------------------------------------------------------------------------------------
 
+“不要提前焦虑，也不要预知烦恼，生活就是见招拆招，天大的事情，顺其自然，也不过如此。” --余华《活着》
+-----------------------------------------------------------------------------------------------------
+
+
 ### AMD CEO Lisa Su on Thinking and Problem Solving
 
 AMD CEO Lisa Su has consistently emphasized the importance of thinking and problem-solving throughout her career. Her approach to these concepts has been instrumental in transforming AMD from a struggling chipmaker into a major player in the semiconductor industry. Here are some key aspects of her philosophy:
@@ -44,3 +48,4 @@ Su is known for her hands-on approach, often reading customer feedback directly 
 
 ### Conclusion
 Lisa Su’s emphasis on thinking and problem-solving has been a driving force behind AMD’s transformation. Her strategic vision, combined with a culture of continuous improvement and a focus on high-impact challenges, has positioned AMD as a leader in the semiconductor industry. Her advice to run towards the hardest problems and learn from mistakes offers valuable insights for anyone looking to make a significant impact in their field.
+

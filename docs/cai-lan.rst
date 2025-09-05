@@ -31,7 +31,8 @@ Chua Lam, born on August 18, 1941, in Singapore, is a renowned cultural icon in 
 
 Chua Lam was born into a wealthy Straits Chinese (Peranakan) family in Singapore in 1941. His family roots trace back to Chaozhou, Guangdong Province, China.
 His father was a successful businessman, and his comfortable upbringing allowed Chua to explore his interests in literature, food, and the arts from a young age.
-Education:
+
+**Education:**
 
 Chua Lam was sent to Hong Kong for his education. He later studied film at Nihon University in Japan, where he gained exposure to Japanese culture and cinema, which significantly influenced his life and career.
 

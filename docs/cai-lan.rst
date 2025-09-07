@@ -21,6 +21,8 @@ Chua Lam's comprehensive understanding of food culture, coupled with his ability
 
 Throughout his career, Chua Lam has continuously offered insights, recommendations, and critiques that have guided and inspired both aspiring chefs and enthusiastic diners, earning him a well-deserved reputation as an esteemed and influential figure in the world of gastronomy.
 
+肾上腺素类运动（摩托车），类似的有：蹦极、跳伞、攀岩、赛车、越野
+
 -----------------------------------------------------------------------------------------------------
 
 Chua Lam, born on August 18, 1941, in Singapore, is a renowned cultural icon in Asia, celebrated for his diverse body of work and his passion for living fully. His life is a fascinating tale of curiosity, creativity, and a deep appreciation for the finer things in life, ranging from food and cinema to literature and travel. Chua Lam embodies the philosophy of “savoring life,” which has made him a beloved figure in Hong Kong, mainland China, and beyond. Below is a detailed account of his life and career:

@@ -219,3 +219,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    pig-life
 
    truth-it
+
+   shi-tie-sheng

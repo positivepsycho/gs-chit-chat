@@ -48,7 +48,7 @@ For Alex, financial freedom wasn’t the end goal—it was the beginning. “Now
 
 本质是价值交换、上班或者打工都是一种形式。提供有效的价值才是第一性原理。
 
-思路：普通矿泉水---喝开水；
+思路：普通矿泉水---喝开水；上门--体育外卖；教练--峨眉山陪爬；
 
 思路：普通健身教练---峨眉山陪爬
 

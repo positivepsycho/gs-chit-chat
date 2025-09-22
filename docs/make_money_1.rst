@@ -120,6 +120,8 @@ The Transformer didn't just improve translation - it fundamentally changed how w
 
 cover: min'12，zhao'10.5，du'20:：核心观点是 AI 带动半导体产业大爆发（工业革命级别 ），2023 - 2025 年行业虽爆炸式增长但供需缺口仍扩大，未来半导体工艺沿密度提升、先进封测、系统级优化发展，长期看半导体先进设备材料、制造与封装是发展核心 。
 
+围绕着AI以及AI的新变化展开：例如，为了提速光通信必然代替铜通信。算力单元叠加持续叠加，功率持续提高，那么散热就是一个大问题，对材料、对电源提出了新需求。
+
 GPT is a deep learning neural network that analyzes prompts made up of natural language, images, or sounds to predict the best possible response based on its interpretation of the input. To do this, it’s trained with massive datasets using hundreds of billions of parameters. GPT references that learning to weight the importance of different components in a sequence, such as words in a sentence or parts of images or sounds. The weighting allows it to infer relevance and context so that it can generate content that makes sense with the prompt.
 
 In 2018, OpenAI released the first generation of GPT, which was built on that architecture GPT-1 was trained on over 1.5 billion parameters and can generate text, answer questions, translate languages, and summarize text, but it has a hard time understanding context and struggles with long passages of text. 

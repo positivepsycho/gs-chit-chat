@@ -208,7 +208,7 @@ GPT excels in generating human-like text and understanding context, but it has l
 
 By leveraging its transformer-based architecture and extensive training, GPT has revolutionized NLP, enabling applications that were previously unattainable. However, careful use and oversight are essential to mitigate risks like misinformation and ethical concerns.
 
-*************************************************************************************************************************
+
 Reference: Serving Large Language Models on Huawei **CloudMatrix384**
 
 Reference: SEMICONTAIwan：AI驱动下CPO、先进工艺和近存计算的投资机会.pdf

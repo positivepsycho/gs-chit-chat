@@ -223,3 +223,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    shi-tie-sheng
 
    fail-meaning-less
+
+   worry-der

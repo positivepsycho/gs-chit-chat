@@ -1,13 +1,15 @@
 GPT-AIGC-﻿AI-NEW-ERA-﻿TRANSFORNER-MARKET（OPPORTUNITY+DO SMOETHING）：REWRITE DESTINY & MAKE IT HAPPEN+ALL_IN_AI(CloudMatrix384,)
 ============================
 
-机灵点: https://www.zhihu.com/question/1944397852253065508
+https://www.zhihu.com/question/1944397852253065508
 
 When the winds of change blow, some build walls, others build windmills.
 --------------------------------------------------------------------------------------------------------------------------
 
 When one cow's strength is insufficient, we don't try to create a bigger cow—we harness the power of many cows working together.
 --------------------------------------------------------------------------------------------------------------------------
+
+问题：从华为cloudMatrix384超节点发布、以及华为最近公开算力芯片路线（950,960,970）来剖析AI算力的未来核心趋势及路线？
 
 华为算力底座的核心可以归纳为：“AI驱动、全光交换、超节点架构、全液冷绿色节能”四大主线;
 
@@ -210,6 +212,7 @@ GPT excels in generating human-like text and understanding context, but it has l
 
 By leveraging its transformer-based architecture and extensive training, GPT has revolutionized NLP, enabling applications that were previously unattainable. However, careful use and oversight are essential to mitigate risks like misinformation and ethical concerns.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Reference: Serving Large Language Models on Huawei **CloudMatrix384**
 

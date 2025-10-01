@@ -229,3 +229,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    language-everything
 
    walden-lake
+
+   no-free-lunch-thinking

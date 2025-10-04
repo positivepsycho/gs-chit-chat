@@ -19,7 +19,7 @@ When one cow's strength is insufficient, we don't try to create a bigger cow—w
 
 问题5：华为算力链条上的（不局限于：PCB、液冷、铜连接、电源、光模块、整机、分销）核心企业有哪些？
 
-BG2 Podcast NVIDIA: OpenAI, Future of Compute, and the American Dream（Brad Gerstner × Clark Tang）
+BG2 Podcast《NVIDIA: OpenAI, Future of Compute, and the American Dream》: 这次访谈中黄仁勋的核心观点：“推理算力将增长十亿倍，OpenAI将是下一个万亿美元公司；英伟达不再卖芯片，而是卖AI产能；每个国家都需要自己的AI发电厂——这就是新的工业革命。”
 
 华为算力底座的核心可以归纳为：“AI驱动、全光交换、超节点架构、全液冷绿色节能”四大主线;2025年9月19日，阿里巴巴集团CEO、阿里云智能集团董事长兼CEO吴泳铭在2024云栖大会上发表主题演讲。他认为，过去22个月，AI发展的速度超过任何历史时期，但我们依然还处于AGI变革的早期。生成式AI最大的想象力，绝不是在手机屏幕上做一两个新的超级app，而是接管数字世界，改变物理世界。
 

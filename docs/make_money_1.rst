@@ -7,6 +7,9 @@ When the winds of change blow, some build walls, others build windmills.
 --------------------------------------------------------------------------------------------------------------------------
 
 When one cow's strength is insufficient, we don't try to create a bigger cow—we harness the power of many cows working together.
+
+1, 碳化硅、氮化镓对于数据中心的高功率设备,尤其功率不断推高的算力芯片的意义是什么?
+
 --------------------------------------------------------------------------------------------------------------------------
 
 问题1：从华为cloudMatrix384超节点发布、以及华为最近公开算力芯片路线（950,960,970）来剖析AI算力的未来核心趋势及路线？

@@ -235,3 +235,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    let-it-go-disney
 
    fuck-it-and-do
+
+   just-people-luoxiang

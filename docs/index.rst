@@ -233,3 +233,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    no-free-lunch-thinking
 
    let-it-go-disney
+
+   fuck-it-and-do

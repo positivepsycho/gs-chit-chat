@@ -237,3 +237,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fuck-it-and-do
 
    just-people-luoxiang
+
+   why-me-fuck-it

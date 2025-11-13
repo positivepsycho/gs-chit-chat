@@ -13,6 +13,8 @@ MAKE-MONEY & HAVE A LIFE NOT JUST SURVIVE
 
 温州+卓老板：换还是抢？ 干别人不愿意的干的活（面子）。
 
+方文山+段永平对话。
+
 From Ordinary to Unconstrained: How a Young Man Seized the AI Bull Market to Achieve Financial Freedom  
 At 25, Alex worked as an administrative assistant in a small marketing firm in a mid-sized city. His days were filled with scheduling meetings, organizing spreadsheets, and answering routine calls—tasks that felt like a slow drain on his ambition. Earning $3,800 a month, he struggled to save for a down payment on an apartment, let alone imagine a life free from the stress of living paycheck to paycheck. “I felt stuck,” he later recalled. “Like I was watching life pass by while I waited for something to change.”  
 

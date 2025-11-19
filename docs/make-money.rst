@@ -9,6 +9,8 @@ MAKE-MONEY & HAVE A LIFE NOT JUST SURVIVE
 
 **赚钱就是要卖东西，学会销售：做一个二道贩子（下雨天地铁口卖雨伞，卖苹果，卖陕北特产，给人上门炖横山羊肉）**
 
+**赚钱就是要卖东西，学会销售：在大学买帽子等就把学费搞出来了**
+
 **AI agent或者数字人在抖音持续直播卖东西/coze工作流+智能体**
 
 要想强大，方法只有一个，学会出丑，做你害怕的事，战胜你内心所有的恐惧，出丑是最好的成长契机，当你勇敢走出舒适区，不怕犯错，不怕出丑，才能打破局限，收货更多的可能，大胆去做，别纠结别人的看法，你就会发现你比自己想象的强大很多很多，拥有这份勇气的人，不管做哪一行都不会差。
@@ -18,6 +20,7 @@ MAKE-MONEY & HAVE A LIFE NOT JUST SURVIVE
 温州+卓老板：换还是抢？ 干别人不愿意的干的活（面子：自己去配送情趣用品）。
 
 方文山+段永平对话。
+
 
 From Ordinary to Unconstrained: How a Young Man Seized the AI Bull Market to Achieve Financial Freedom  
 At 25, Alex worked as an administrative assistant in a small marketing firm in a mid-sized city. His days were filled with scheduling meetings, organizing spreadsheets, and answering routine calls—tasks that felt like a slow drain on his ambition. Earning $3,800 a month, he struggled to save for a down payment on an apartment, let alone imagine a life free from the stress of living paycheck to paycheck. “I felt stuck,” he later recalled. “Like I was watching life pass by while I waited for something to change.”  

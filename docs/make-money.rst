@@ -25,6 +25,8 @@ MAKE-MONEY & HAVE A LIFE NOT JUST SURVIVE
 
 从小日子失去的30年，看未来中国经济趋势：折扣店（优衣库，拼多多，蜜雪冰城，名创优品等，总之极致性价比）、游戏机(索尼，任天堂，短视频，爽文，总之让人忘记现实痛苦），二手店（二手反翻新书，闲鱼，转转，爱回收），单身经济（宠物经济、猫猫狗狗，一人食，陪伴，搭子等）。
 
+中药种植（亩产2万以上的品种去选择）
+
 From Ordinary to Unconstrained: How a Young Man Seized the AI Bull Market to Achieve Financial Freedom  
 At 25, Alex worked as an administrative assistant in a small marketing firm in a mid-sized city. His days were filled with scheduling meetings, organizing spreadsheets, and answering routine calls—tasks that felt like a slow drain on his ambition. Earning $3,800 a month, he struggled to save for a down payment on an apartment, let alone imagine a life free from the stress of living paycheck to paycheck. “I felt stuck,” he later recalled. “Like I was watching life pass by while I waited for something to change.”  
 

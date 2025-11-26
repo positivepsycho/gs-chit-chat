@@ -154,7 +154,7 @@ carpe diem(All human writing carries an autobiographical meaning)
 
    make_money_1
 
-   make_money_2
+   make-money_2
 
    virus
 

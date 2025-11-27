@@ -23,5 +23,9 @@ github:一人企业方法论: https://github.com/easychen/one-person-businesses-
 
 参考：https://mp.weixin.qq.com/s?__biz=MzkwMTY2MDI2NQ==&mid=2247484189&idx=1&sn=0d60d7316c8c536c0cdf7e76d6b91ae7&poc_token=HFDgJ2mj5wmoXSNB4GanSX1AxYLjkDf6E80ci4gU
 
+参考：https://www.siliconflow.cn/
+
+参考：
+
 
 

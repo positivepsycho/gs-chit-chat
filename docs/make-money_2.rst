@@ -7,7 +7,9 @@ AI+start-up+make it happen+do something
 
 2，投稿需要多少钱？投稿周期多久？
 
-3，
+3，是否需要查重？
+
+4，
 
 
 

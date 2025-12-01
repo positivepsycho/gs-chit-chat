@@ -251,3 +251,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    anqi-zhihu
 
    animals-all-in
+
+   learn-by-japan

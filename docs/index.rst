@@ -259,3 +259,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    wujun-invest
 
    none-of-my-bussiness
+
+   game-inor-over

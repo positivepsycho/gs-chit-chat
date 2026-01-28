@@ -3,6 +3,8 @@ GPT-AIGC-﻿AI-NEW-ERA-﻿TRANSFORNER-MARKET（OPPORTUNITY+DO SMOETHING）：REW
 
 https://www.zhihu.com/question/1944397852253065508
 
+https://github.com/moltbot/moltbot
+
 但斌认为AI时代将开启十年以上长周期，与互联网和移动互联网发展历程相似。他指出从ChatGPT公布至今已三年，2026年只是AI时代的第四年，正处于加速期而非尾声。他认为明年很可能是AI应用大爆发的关键节点，即便市场可能出现短期调整，也应视为"中途加油站"，类似互联网时代早期的波动。作为投资者，他对AI长期发展保持坚定乐观，视调整为加仓机会，强调这一变革将深刻影响未来十年经济格局。
 
 阮一峰的网络日志，转引美国宇航局工程师的文章: Da­t­a­c­e­n­t­e­rs in sp­a­ce are a te­r­r­i­b­le, ho­r­r­i­b­le, no go­od id­ea.太空算力实际操作起来有很多工程问题，未必那么容易。

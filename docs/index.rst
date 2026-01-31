@@ -267,3 +267,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    cailan-practice
 
    charlie_almanack
+
+   adaptable-living

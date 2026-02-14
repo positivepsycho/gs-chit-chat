@@ -289,3 +289,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    method_of_money
 
    dao_and_shu
+
+   memory_not_enough

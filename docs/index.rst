@@ -285,3 +285,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    zhongxinguoji_q4
 
    anti-fragile
+
+   method_of_money

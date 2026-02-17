@@ -291,3 +291,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    dao_and_shu
 
    memory_not_enough
+
+   xue_zhao_feng_economy

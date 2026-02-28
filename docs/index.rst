@@ -295,3 +295,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    xue_zhao_feng_economy
 
    new_life_ready_prepared
+
+   philosophy_100_percent

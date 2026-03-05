@@ -297,3 +297,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    new_life_ready_prepared
 
    philosophy_100_percent
+
+   energy_lasting_solutions

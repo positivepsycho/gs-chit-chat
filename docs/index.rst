@@ -307,3 +307,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    cn_guangkeji_now
 
    choice_minority_which
+
+   horse_pass_river_philosophy

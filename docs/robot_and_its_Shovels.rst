@@ -1,7 +1,9 @@
 随笔146 机器人和他的铲子们
 ======================================================
 
+《Picks & Shovels Robot Plays: Bearings》
 
+《Picks & Shovels Robot Plays: Semiconductor》
 
 关注morgan stanley的机器人系列文章
 ------------------------------------------------------------

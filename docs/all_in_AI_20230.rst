@@ -1,4 +1,4 @@
-随笔148 all in AI/(including physical AI)
+随笔148 ALL IN AI/(including physical AI)
 ====================================================
 
 AI是主线，所有一切围绕这个展开。

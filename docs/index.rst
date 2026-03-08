@@ -315,3 +315,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    red_wine_mistake
 
    robot_and_its_Shovels
+
+   money_from_stock_where

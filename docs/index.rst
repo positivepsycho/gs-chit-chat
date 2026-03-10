@@ -319,3 +319,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    money_from_stock_where
 
    all_in_AI_20230
+
+   why_always_workforothers

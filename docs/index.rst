@@ -323,3 +323,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    why_always_workforothers
 
    ajimide_on_earth
+
+   from_house_to_AI

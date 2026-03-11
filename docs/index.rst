@@ -325,3 +325,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    ajimide_on_earth
 
    from_house_to_AI
+
+   20260311_Jensen_Huang_AI

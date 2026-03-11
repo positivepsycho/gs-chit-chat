@@ -321,3 +321,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    all_in_AI_20230
 
    why_always_workforothers
+
+   ajimide_on_earth

@@ -343,3 +343,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    guimi_dakongtou
 
    never_ever_try_to_evoke
+
+   human_principle_renxing

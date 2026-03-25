@@ -347,3 +347,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    human_principle_renxing
 
    buy_or_not_when_bear_coming
+
+   three_base_questions_of_gaoyi

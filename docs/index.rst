@@ -340,6 +340,8 @@ carpe diem(All human writing carries an autobiographical meaning)
 
    help_you_self_nomatterhow
 
+   buy_or_not_when_bear_coming
+
    guimi_dakongtou
 
    never_ever_try_to_evoke

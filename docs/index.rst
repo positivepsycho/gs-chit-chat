@@ -353,3 +353,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    yesuan_B6_B12
 
    meng_xiaoshenke
+
+   svm_and_its_wisdowm

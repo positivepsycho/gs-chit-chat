@@ -373,3 +373,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    period_respect
 
    bomochengji_related
+
+   fuck_japan_guochan_tidai

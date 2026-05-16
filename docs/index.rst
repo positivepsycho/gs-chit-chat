@@ -377,3 +377,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fuck_japan_guochan_tidai
 
    from_zhongxinguoji_2026q1
+
+   agu_living_philosophy

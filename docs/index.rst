@@ -379,3 +379,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    from_zhongxinguoji_2026q1
 
    agu_living_philosophy
+
+   do_not_swim_in_shit

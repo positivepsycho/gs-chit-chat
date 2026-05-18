@@ -385,3 +385,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    kaili_method
 
    mummy_want_you_do_sth
+
+   jishu_influsion_oh

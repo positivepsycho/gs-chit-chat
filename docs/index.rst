@@ -391,3 +391,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fish_and_shrimp_stk
 
    sunge_cognition_10
+
+   fogg_model

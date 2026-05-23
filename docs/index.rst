@@ -393,3 +393,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    sunge_cognition_10
 
    fogg_model
+
+   Rubin_AI_20260523_analysis

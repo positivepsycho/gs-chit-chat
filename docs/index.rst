@@ -395,3 +395,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fogg_model
 
    Rubin_AI_20260523_analysis
+
+   stock_body_no_house_no_car

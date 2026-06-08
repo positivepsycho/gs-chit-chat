@@ -411,3 +411,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    tao_and_galss
 
    gtc_analysis_yang_20260607
+
+   about_buy_and_sell

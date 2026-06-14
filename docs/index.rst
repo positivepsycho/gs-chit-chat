@@ -415,3 +415,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    about_buy_and_sell
 
    wujun_feedback_lag
+
+   why_good_investor_healthy

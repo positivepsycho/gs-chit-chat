@@ -423,3 +423,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    yuanshiziben_qinqing
 
    200_article
+
+   bubble_beautiful

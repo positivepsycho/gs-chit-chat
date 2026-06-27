@@ -425,3 +425,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    200_article
 
    bubble_beautiful
+
+   giant_shoulder

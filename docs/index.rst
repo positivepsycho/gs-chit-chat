@@ -429,3 +429,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    giant_shoulder
 
    inflation_or_deflation_choice
+
+   memory_only_memory

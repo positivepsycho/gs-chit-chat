@@ -435,3 +435,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    k_diverge_in_history
 
    profit_increase_hard
+
+   from_using_or_AI_20260712

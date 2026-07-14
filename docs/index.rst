@@ -439,3 +439,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    from_using_or_AI_20260712
 
    water_knows_the_answer
+
+   SemiAnalysis_20260714

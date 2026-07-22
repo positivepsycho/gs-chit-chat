@@ -457,3 +457,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    logic_and_market_new_power
 
    nothing_just_caotai_banzi
+
+   shi_and_philosophy

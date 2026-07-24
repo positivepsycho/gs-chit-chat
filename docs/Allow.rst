@@ -12,6 +12,9 @@
 事与愿违也是人生的常态
 -----------------------------------------------------------------------------------------------------
 
+任何人无论以什么身份与你交集，本质是让你完成自己的成长课题，悟透这一点，你就对任何的聚散离合没有执念。允许万物心中过，也允许万物心中不留。
+-----------------------------------------------------------------------------------------------------
+
 ALLOW SHIT HAPPENS.
 
 The philosophy of "let shit happen" is a mindset that promotes accepting and allowing events, situations, or circumstances to unfold naturally, without interference or excessive control. It emphasizes going with the flow, embracing uncertainties, and not resisting or trying to manipulate the outcomes.

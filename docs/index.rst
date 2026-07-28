@@ -465,3 +465,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    about_gui_shen_god_and_ghost
 
    sushi_sizhilun
+
+   simple_and_effective

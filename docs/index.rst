@@ -471,3 +471,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    bide_linch_up_and_down
 
    dafangxiang_nuli
+
+   wuxiaoping_and_semiconductor_20260925

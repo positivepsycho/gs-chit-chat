@@ -477,3 +477,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fengzhuang20260922
 
    HowToLiveBetter
+
+   talk_AI_20261025

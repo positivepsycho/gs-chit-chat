@@ -1,4 +1,4 @@
-随笔230 趋势的力量
+随笔230 趋势的力量（THE POWER OF TREND）
 ================================================
 
 # How to make a happy life — Real practice + philosophical root

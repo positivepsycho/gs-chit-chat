@@ -45,12 +45,13 @@ Spend energy solving problems you can change. For things you cannot change, stop
 Philosophically: happiness is flourishing through virtue, freedom from useless craving, and the brave choice to give your own life meaning.
 In reality: it is sleeping well, loving a few people, doing honest work, limiting greed, enduring small hardships gracefully, and not fighting the fact that everything changes.
 
-If you want, I can condense this into a short, beautiful essay version, or a set of simple mottos.
-
 
 景气、情绪、止损、纪律
 
-顺势而为（国家支持，情绪烘托，国际策应，资金拥挤），量价齐升(在20日均线之上，均线形成向上趋势，多头排列，量能逐步放大，流动性好，成交活跃)
+如果我每次都用100万操作不同的赛道或者景气标的（亏了就补充到100，赚了就把赚的取走），买入如果跌幅到5%，我就主动卖出，如果涨幅大于10%，我就主动卖出，这个方案是否具有可行性，需要克服哪些问题？那么从实际的角度出发，盈亏比如何设置（即盈利多少卖出，亏损多少止损），才能最大化这个系统的收益（分别对应30%，50%，70%胜率）？
+
+顺势而为），量价齐升。
+
 
 
 

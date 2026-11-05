@@ -481,3 +481,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    talk_AI_20261025
 
    survive_in_A_market
+
+   about_trend_in_A

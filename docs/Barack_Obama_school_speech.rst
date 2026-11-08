@@ -1,4 +1,4 @@
-随笔232 Remarks of President Barack Obama as Delivered
+随笔233 Remarks of President Barack Obama as Delivered
 ======================================
 
 Remarks of President Barack Obama as Delivered

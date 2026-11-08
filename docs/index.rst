@@ -485,3 +485,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    about_trend_in_A
 
    why_buffet_this_time_alphabet
+
+   Obama_goodbye_speech

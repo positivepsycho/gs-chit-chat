@@ -489,3 +489,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    Obama_goodbye_speech
 
    Barack_Obama_school_speech
+
+   you_only_have_to_get_rich_once

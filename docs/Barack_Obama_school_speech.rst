@@ -18,5 +18,6 @@ We also set standards to increase the distance our cars and light trucks can go 
 But we’re not done yet. In the weeks and months ahead, we’ll release a second round of fuel efficiency standards for heavy-duty vehicles. We’ll take steps to meet the goal we set with Canada and Mexico to achieve 50 percent clean power across North America by 2025. And we’ll continue to protect our lands and waters so that our kids and grandkids can enjoy our most beautiful spaces for generations.
 
 There’s still much more to do. But there’s no doubt that America has become a global leader in the fight against climate change. Last year, that leadership helped us bring nearly 200 nations together in Paris around the most ambitious agreement in history to save the one planet we’ve got. That’s not something to tear up – it’s something to build upon. And if we keep pushing, and leading the world in the right direction, there’s no doubt that, together, we can leave a better, cleaner, safer future for our children.
+--------------------------------------------------------------------
 
 Thanks, everybody. Have a great weekend.

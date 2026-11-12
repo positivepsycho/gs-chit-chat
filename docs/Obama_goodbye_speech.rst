@@ -12,8 +12,10 @@ I’ve seen the hopeful faces of young graduates and our newest military officer
 That’s what’s possible when we come together in the hard, slow, sometimes frustrating, but always vital work of self-government.   But we can’t take our democracy for granted.  All of us, regardless of party, should throw ourselves into the work of citizenship.  Not just when there’s an election, not just when our own narrow interest is at stake, but over the full span of a lifetime.  If you’re tired of arguing with strangers on the internet, try to talk with one in real life.  If something needs fixing, lace up your shoes and do some organizing.  If you’re disappointed by your elected officials, then grab a clipboard, get some signatures, and run for office yourself.
 
 Our success depends on our participation, regardless of which way the pendulum of power swings.  It falls on each of us to be guardians of our democracy; to embrace the joyous task we’ve been given to continually try to improve this great nation of ours.  Because for all our outward differences, we all share the same proud title: Citizen.
+-----------------------------------------------------------------------------------------------
 
 It has been the honor of my life to serve you as President.  Eight years later, I am even more optimistic about our country’s promise.  And I look forward to working along your side, as a citizen, for all my days that remain.
+-----------------------------------------------------------------------------------------------
 
 Thanks, everybody.  God bless you, and God bless the United States of America.
 

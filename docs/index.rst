@@ -491,3 +491,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    Barack_Obama_school_speech
 
    you_only_have_to_get_rich_once
+
+   xinfa_in_A_market

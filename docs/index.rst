@@ -499,3 +499,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    let_it_go_just_go
 
    guochantidai_beifanghuachuang
+
+   REMINDER_TO_ALL PARENTS

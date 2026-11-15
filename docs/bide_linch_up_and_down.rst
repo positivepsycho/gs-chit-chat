@@ -1,6 +1,18 @@
 随笔223 彼得·林奇_下跌_坚守
 =======================================================
 
+Honourable judges, distinguished guests, ladies and gentlemen, good morning. Humanism, by which I mean the will to give people love and care, is the most joyful and meaningful part of being human. From the old days to technologically advanced world, humanism is always telling ordinary but moving stories.
+
+　　Let me tell you what touched my heart this winter break, one morning when I visited my grandmother in the hospital. Walking down the cold, tiled corridor, I noticed an old man, with his granddaughter – maybe 10 years old – sitting by his side. I was lured there by her voice – light and playful – and after I'd seen them together, I could barely take my eyes away. Delicately draped over this old man's beeping cardiograph was a silk sheet with an ancient, cheerful Chinese poem beautifully written on it – and now, this little girl's entrancing voice lovingly brought these words to life. I stood there transfixed; no longer did I see the family members swimming in nervousness; no longer did I feel the hospital's tense cloud of anxiety; no longer did I hear mortality's soft whispers in the corridors; instead, I saw a startling marriage of juxtaposing images and emotions. I was beholding, I realized, a bewilderingly simple yet overwhelmingly powerful metaphor – one that shows that no matter how cold an environment technology can conjure, humanity is always there. In the forefront or the fringes, it is always there.
+
+　　For here it was, illustrated vividly before me – the coldness of technology embodied in the hospital walls, while the soulful words of the little girl danced around them in defiance.
+
+　　This experience opened my eyes in many ways – ever since, I have been acutely aware of, and wonderfully conscious of, the warm heart of humanity surrounding us, whether we choose to recognise it or not. As one psychological theory states, "We see what we want to see". After my experience that day at the hospital, I have chosen to recognize, day by day, the warmth of humanism everywhere I can.
+-------------------------------------------------------
+　　I refuse to accept the negative, narrow-minded, caustic opinions that technology is eroding our souls. I say to them, let the machines continue their monotonous cacophony, for just one smiling face is infinitely more valuable than a thousand churners of binary code; let technological progress develop and develop until it poetically devours itself, because one heartfelt "hello" to a fellow traveller can speak libraries of warmth; let the powermongers and oil barons puff their last cigars, because the love and care, and warmth of humanism will always shine like beacon, reaching out to each and every heart on this small planet.
+-------------------------------------------------------
+
+　　Although I'll probably never see that little girl or her grandfather again, I'll never forget seeing them there in the hospital that day – and if I did, I'd thank them for showing me how vivid yet subtle, how firm yet fragile, and how invisible yet omnipresent the human spirit is in our world today. Thank you.
 
 彼得·林奇1994年说过一段话，我记了很久。
 

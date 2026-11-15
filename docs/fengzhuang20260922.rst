@@ -1,6 +1,23 @@
 随笔226 “芯片网红”：AI算力瓶颈早已不是算力芯片 而是先进封装、互连延迟与存储层级
 ====================================================
 
+Dear classmates,
+
+　　Every one of us, rich or poor, should at least have one or two good friends. My friends will listen to me when I want to speak, will wipe my eyes when I cry, will take care of me when I am sick, and my friends will go together with me side by side through this journey of life.
+-----------------------------
+
+　　As students, we could share more time with our friends. The friendship in our young hearts is pure, fresh and simple. I often feel very lucky to have a lot of good friends. Especially when I had Justin as one of my best friends. Justin was my English teacher from the USA. I met him in 1996 when I was a student who could only speak very little English. Justin was a vivid young man with a bright smile on his face, and he always had his special way to make the class active and attractive. He taught us English by telling stories, playing games, singing songs, and even dancing. I could still remember very clearly that one afternoon when we fin-ished our class, we went to some other classes to sing songs for them, just like what people do in the states on Christmas Eve. It was so interesting and unforgettable. Justin was an excellent teacher, because he taught us not only how to study English well, but also the way to find out the beauty of the world and the way to be angels to others' lives. I know there was friendship and pure love in our hearts. Facing this valuable emotion neither nationality nor age was important, the real importance lay in faith, under-standing, and care. Justin is the best friend I have ever had, and I know I will cherish those days of staying together with him as the best part of my memory.
+
+　　Friendship is a kind of treasure in our lives. It is actually like a bottle of wine, the longer it is kept, the sweeter it will be. It is also like a cup of tea. When we are thirsty, it will be our best choice, but when we have enough time to enjoy ourselves, it is also the most fragrant drink.
+-----------------------------
+
+　　However, in this fast-developing modern society, the reality is not that. More and more people forget to enjoy the beauty of life and -the beauty of friendship. They work hard in order to gain a higher position, in the society and to earn more money for their work. Of course, we don't deny that it is important to find a bet-ter place in our lives, but we wish more and more people could pay a little more attention to themselves and their friends. All of us have to spare some time for personal lives. We have to find the chance to express our emotion and love. When staying with our friends, we can release ourselves completely. We can do whatever we want, we can laugh together, talk together, and even cry to-gether. I should say that being together with our best friends is the most wonderful moment of our lives.
+
+　　As we know, we would feel lonely if we didn't even have a friend. But it doesn't mean we could depend on our friends all the time. There is a famous motto saying that “A friend is like a quilt with cotton wadding, but the real thing that keeps you warm is your own temperature.” It is really true. We have to work hard together with our friends, encourage each other and help each other. When we receive love and friendship, we should repay as much as we can.
+
+　　Finally, let's pray together now that one day, all of us could find the person we want to find, and could enjoy a real beautiful friendship in our lives. Let's pray the flower of friendship be-tween our friends and us would always bloom brightly in our hearts.​​​​
+
+
 “芯片网红”：AI算力瓶颈早已不是算力芯片 而是先进封装、互连延迟与存储层级
 -----------------------------------------------------------------------------------
 

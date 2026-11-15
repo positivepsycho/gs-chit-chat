@@ -1,6 +1,20 @@
 随笔237 放下、放手、放心
 ============================================================
 
+Good morning,ladies and gentlemen,today i am so happy to stand here to give you a speech.Or rather, a real story of mine.
+
+Though with time going by,i can still remember what you once told me.You should be a brave girl.Smiling,you looked into my eyes.Year in,year out,nearly most of my memories are fading little by little.But only this simple sentence remained,without being forgotten in my life. Again and again,i can not stop myself from thinking about it.So ordinary,but so impressive,so moving,just like the brightest sunshine,it helps me go through the darkest night.I am such a sensitive girl in your heart.You said,my sorroful facial expression made feel so distersssed.However,there is one thing i never tell you,that is ,i am becoming a big girl gradually with your words and smiles.I never tell you about it,for i believe oneday,you can see the great changes of mine for yourself.That is what i want to do in return.As i know,that will be the best gift for you.
+
+I suddenly think of a song named MY HEART WILL GO ON.There is a beautiful sentence going like this.You are safe in my heart.More than once,i was moved to tears by it.I know ,i am also safe in your heart.i have already forgotten when i told you i was going to leave for Australia this summer holiday.You just smiled as usual,gently speaking.Whatever you decide to do,i will be in favor of it,but, just onething,remember,when you fell lonely abroad,do not forget we are here ,praying for you.We are all around you,far across the distance and space between us.i closed my eyes,the flashback started.The memories we had together,once we played games on the palyground,we played jokes on each other,you always wrote a lot of sentences on my articles to encourage me.And the most unforgetable thing,you told me,you believed m i could be a big girl.Sooner or later. At that specific moment,i suddenly understood the meaning of this sentence totally.So on that day,i smiled as you used to,looking at you.The last words i said were,keep walking in sunshine.
+
+Yes,keep walking in sunshine.I said to you ,also to myself.I know i am not alone wiht your company,and we can keep walking in sunshine till the last minute of our days.
+---------------------------------------------------------------
+
+I promise,i will be a big girl.
+
+I promise,i will be a brave girl.
+
+I promise,i will keep walking in sunshine. That is my speech,thank you!
 
 放下：一切都是执念。
 --------------------------------------------------------------------------------------------

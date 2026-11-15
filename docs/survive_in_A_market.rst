@@ -3,6 +3,7 @@
 
 
 Thank you. Thank you so much. Thank you very much for that warm welcome. I am so grateful to be here back at Wellesley, especially for President [Paula] Johnson's very first commencement, and would like to thank her, the trustees, families and friends, faculty, staff and guests for understanding and perpetuating the importance of this college: what it stands for, what it has meant and what it will do in the years ahead. And most importantly, it's wonderful to be here with another green class to say, congratulations to the class of 2017!
+------------------------------------------------------------------------
 
 Now I have some of my dear friends here from my class, a green class of 1969. And I assume, or at least you can tell me later, unlike us, you actually have a class cheer. 1969 Wellesley. Yet another year with no class cheer. But it is such an honor to join with the college and all who have come to celebrate this day with you, and to recognize the amazing futures that await you.
 
@@ -69,6 +70,7 @@ Our culture often celebrates people who appear to go it alone. But the truth is,
 One of the things that gave me the most hope and joy after the election, when I really needed it, was meeting so many young people who told me that my defeat had not defeated them. And I'm going to devote a lot of my future to helping you make your mark in the world. I created a new organization called Onward Together to help recruit and train future leaders, and organize for real and lasting change. The work never ends.
 
 When I graduated and made that speech, I did say, and some of you might have pictures from that day with this on it, "The challenge now is to practice politics as the art of making what appears to be impossible, possible." That was true then. It's truer today. I never could have imagined where I would have been 48 years later — certainly never that I would have run for the Presidency of the United States or seen progress for women in all walks of life over the course of my lifetime. And yes, put millions of more cracks in that highest and hardest glass ceiling.
+---------------------------------------------------------------------------------------
 
 Because just in those years, doors that once seemed sealed to women are now opened. They're ready for you to walk through or charge through, to advance the struggle for equality, justice, and freedom.
 

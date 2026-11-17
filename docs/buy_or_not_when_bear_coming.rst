@@ -44,6 +44,9 @@ Dear classmates,
 彼得·林奇：任何大牛市中途都需要良性回调。
 ------------------------------------------------
 
+林奇反对的是“因恐慌而卖出”，不是反对“卖出”本身。关键前提是你得清楚自己持有的是什么、为什么持有。‌
+------------------------------------------------
+
 "And you know, like any big rally, sometimes it backs off. I mean, it's healthy."（"任何大牛市都需要良性回调，这是健康的。"）
 
 以日本为例："Japan went from 5000 to 15000... then it went to 40000."（"日经指数从5000涨到15000点还算合理，但后来冲到40000点。"）结果导致"seven years of inflated real estate people overspending"（"七年房地产泡沫和民众过度消费"），使日本"been in a recession for five or six years"（"陷入五六年经济衰退"）。

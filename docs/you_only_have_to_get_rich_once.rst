@@ -72,7 +72,7 @@ It was with reluctance that I decided the country needs this election, but it is
 
 So, tomorrow, let the House of Commons vote for an election, let everybody put forward their proposals for Brexit and their programmes for Government, and let us remove the risk of uncertainty and instability and continue to give the country the strong and stable leadership it demands.
 
-杠lever杆：不能用这个玩意做长线，只有特殊的_情绪周期_短期博弈_止损纪律
+杠lever：杆子，NO长线，只有特殊的_情绪周期_短期博弈_止损纪律
 ----------------------------------------------------------------------------------------------------------------------
 
 You only have to get rich once（一生只需富一次），还有 “只跨一英尺的栏”、买股票就是买公司、不加杠杆、不懂不做等，都是段永平反复引用的内容

@@ -70,6 +70,11 @@ Nor have We been wanting in attentions to our British brethren. We have warned t
 We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these united Colonies are, and of Right ought to be Free and Independent States, that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. — And for the support of this Declaration, with a firm reliance on the protection of Divine Providence, we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.
 --------------------------------------------------------------
 
+垄断+龙头+自主可控（国产替代）
+---------------------------------
+
+20261119：腾讯到底看到了什么，才会殊死一搏。从自由现金流到pony内部讲话都透露出一股殊死一搏的气氛。
+---------------------------------------------------------------------------------------------------
 
 从华创走势，引发的思考，自己也曾参与过，那么和智飞这类有什么根本不同，上证的大盘的走势是线性曲线，而纳斯达克的曲线是指数曲线，根本问题就在于盈利能力的差异。晶圆厂的重资产模式，不是谁想进就进的。
 -----------------------------------------------

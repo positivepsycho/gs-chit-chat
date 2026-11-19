@@ -3,17 +3,17 @@
 
 My definition of success.
 
-　　Today I am very glad to be here to share with you my ideas of success. What is success? It is what everyone is longing for.Sometimes success would be rather simple. Winning a game is success; getting a high grade in the exam is success; making a new friend is success; even now I am standing here giving my speech is somehow also success.
+Today I am very glad to be here to share with you my ideas of success. What is success? It is what everyone is longing for.Sometimes success would be rather simple. Winning a game is success; getting a high grade in the exam is success; making a new friend is success; even now I am standing here giving my speech is somehow also success.
 ----------------------------------------------------------------------------------------------------------------------------
-　　However, as a person’s whole life is concerned, success becomes very complicated. Is fortune success? Is fame success? Is high social status success? No, I don’t think so. I believe success is the realization of people’s hopes and ideals.Nowadays, in the modern society there are many people.
+However, as a person’s whole life is concerned, success becomes very complicated. Is fortune success? Is fame success? Is high social status success? No, I don’t think so. I believe success is the realization of people’s hopes and ideals.Nowadays, in the modern society there are many people.
 ----------------------------------------------------------------------------------------------------------------------------
-　　who are regarded as the successful. And the most obvious characteristics of hem are money, high position and luxurious life. So most people believe that s success and all that they do is for this purpose. But the problem is wether it is real success. We all know there are always more money, higher position and better condition in front of us. If we keep chasing them, where is the end? What willsatisfy us at last? Therefore, we can see, to get the real Success we must need something inside, which is the realization of people’ hopes and ideals.
+who are regarded as the successful. And the most obvious characteristics of hem are money, high position and luxurious life. So most people believe that s success and all that they do is for this purpose. But the problem is wether it is real success. We all know there are always more money, higher position and better condition in front of us. If we keep chasing them, where is the end? What willsatisfy us at last? Therefore, we can see, to get the real Success we must need something inside, which is the realization of people’ hopes and ideals.
 
-　　Different people have different ideas about success; cause people’s hopes and ideas vary from one another. But I am sure every success is dear to everybody, cause it is not easy to come by, cause in the process of our striving for success, we got both our body and soul tempted, meanwhile we are enlightened by the most valuable qualities of human beings: love, patient, courage and sense of responsibility. These are the best treasures. So now I am very proud that I have this opportunity to stand here speaking to all of you. It is my success, cause I raise up to challenge my hope.
+Different people have different ideas about success; cause people’s hopes and ideas vary from one another. But I am sure every success is dear to everybody, cause it is not easy to come by, cause in the process of our striving for success, we got both our body and soul tempted, meanwhile we are enlightened by the most valuable qualities of human beings: love, patient, courage and sense of responsibility. These are the best treasures. So now I am very proud that I have this opportunity to stand here speaking to all of you. It is my success, cause I raise up to challenge my hope.
 
-　　What is success? Everyone has his own interpretation as I do. But I am sure every success leads to an ever-brighter future. So ladies and gentlemen, believe in our hopes, believe in ourselves, we, every one of us, can make a successful life!
+What is success? Everyone has his own interpretation as I do. But I am sure every success leads to an ever-brighter future. So ladies and gentlemen, believe in our hopes, believe in ourselves, we, every one of us, can make a successful life!
 
-　　Wish you all good success!
+Wish you all good success!
 
 ----------------------------------------------------------------------------------------------------------------------
 We shall go on to the end, we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air。

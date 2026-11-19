@@ -19,6 +19,8 @@ Love and knowledge, so far as they were possible, led upward toward the heavens.
 This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.
 
 ----------------------------------------------------------------------------------------------------------------------
+许多时候和狮子捕猎时一样的，大部分的时间在睡大觉，保存体力。需要冷静判断，高度忍耐。
+--------------------------------
 
 底是平的，顶是尖的。情绪是总策划，见好就收（贪婪与恐惧的平衡）。
 --------------------------------

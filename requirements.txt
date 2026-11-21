@@ -9,3 +9,5 @@ whitenoise
 openpyxl
 sphinx
 sphinx-rtd-theme
+sphinx-password
+

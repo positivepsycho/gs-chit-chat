@@ -15,6 +15,8 @@ build:
     # golang: "1.20"
   jobs:
     post_create_environment:
+      # 手动安装 nodejs + npm
+      - apt-get update && apt-get install -y nodejs npm
       - npm install -g staticrypt
     post_build:
       - cd _build/html

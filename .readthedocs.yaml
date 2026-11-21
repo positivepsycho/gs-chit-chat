@@ -18,7 +18,7 @@ build:
     post_create_environment:
       - npm install -g staticrypt
     post_build:
-      - cd _build/html
+      - cd $READTHEDOCS_OUTPUT/html
       - staticrypt ./*.html --password "$DOC_PASSWORD"
 
 # Build documentation in the "docs/" directory with Sphinx

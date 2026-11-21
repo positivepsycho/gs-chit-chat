@@ -507,3 +507,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    fupan_1_20260630
 
    lever_how
+
+   liver_with_fat

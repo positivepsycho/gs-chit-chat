@@ -14,12 +14,6 @@ build:
     # nodejs: "20"
     # rust: "1.70"
     # golang: "1.20"
-  jobs:
-    post_create_environment:
-      - npm install -g staticrypt
-    post_build:
-      - STATIC_DIR="$READTHEDOCS_OUTPUT/html"
-      - staticrypt "$STATIC_DIR" -r -d "$STATIC_DIR" --password "$DOC_PASSWORD" --short
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:

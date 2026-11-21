@@ -142,3 +142,5 @@ extensions = [
 ]
 sphinx_password_global_password = os.getenv("DOC_PASSWORD")
 sphinx_password_prompt = "请输入文档访问密码"
+
+templates_path = ["_templates"]

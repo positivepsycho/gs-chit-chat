@@ -9,18 +9,17 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
+    nodejs: "20"
     # You can also specify other tool versions:
     # nodejs: "20"
     # rust: "1.70"
     # golang: "1.20"
   jobs:
     post_create_environment:
-      # 手动安装 nodejs + npm
-      - apt-get update && apt-get install -y nodejs npm
       - npm install -g staticrypt
     post_build:
       - cd _build/html
-      - staticrypt ./*.html --password "$DOC_PASSWORD" --remember 30
+      - staticrypt ./*.html --password "$DOC_PASSWORD"
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:

@@ -1,0 +1,17 @@
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+<script>
+// 在这里写你的访问密码
+const PASS = "MyBlogPass123";
+const promptText = "请输入文档访问密码";
+
+(function(){
+    let p = prompt(promptText);
+    if(p !== PASS){
+        document.body.innerHTML = "<h1>密码错误</h1>";
+    }
+})();
+</script>
+{{ super() }}
+{% endblock %}

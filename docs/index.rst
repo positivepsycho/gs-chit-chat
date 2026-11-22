@@ -515,3 +515,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    steve_jobs_speech_stayfoolish
 
    habit_and_its_power
+
+   kong_cang

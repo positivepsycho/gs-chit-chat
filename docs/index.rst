@@ -509,3 +509,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    lever_how
 
    liver_with_fat
+
+   allow_earth_destroy

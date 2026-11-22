@@ -511,3 +511,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    liver_with_fat
 
    allow_earth_destroy
+
+   steve_jobs_speech_stayfoolish

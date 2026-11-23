@@ -62,6 +62,9 @@ Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise 
 > **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
 ------------------------------------------------------------------------------------------------------------
 
+穷在闹市无人问，富在深山有远亲。大衣哥，郭德纲
+--------------------------------------
+
 人吃人，规则都是给普通人准备的。
 ---------------------------------------
 

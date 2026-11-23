@@ -517,3 +517,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    habit_and_its_power
 
    kong_cang
+
+   the_truth_of_society

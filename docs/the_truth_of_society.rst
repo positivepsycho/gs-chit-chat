@@ -74,7 +74,7 @@ Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise 
 厚黑学
 ------------------------------------------
 
-道德的沦丧从来都在“庙堂”
+道德的沦丧从来都在“庙堂”，从东林党到《五人墓碑记》
 ------------------------------------------
 
 

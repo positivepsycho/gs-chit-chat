@@ -1,6 +1,67 @@
 随笔248 社会的真相
 ========================================================================
 
+# Animal Farm — Book Summary
+
+## Overview
+
+**Title:** *Animal Farm*
+**Author:** George Orwell (Eric Arthur Blair)
+**Published:** 1945
+**Genre:** Political allegory / Dystopian novella
+**Length:** ~110 pages (novella)
+**Setting:** A farm in rural England
+
+## Plot Summary
+
+The story begins on **Manor Farm**, where the animals suffer under the neglectful rule of the drunken farmer, **Mr. Jones**. Inspired by the dream of an old boar named **Old Major** — who envisions a world free of human exploitation — the animals revolt. They drive Jones off the farm and rename it **Animal Farm**, establishing Seven Commandments of Animalism, the most fundamental being: *"All animals are equal."*
+------------------------------------------------------------------------------------------------------------
+At first, the revolution succeeds. The animals work the farm themselves, and the pigs — the smartest animals — take on leadership, with **Snowball** and **Napoleon** emerging as rivals. Snowball is idealistic and energetic; he designs a windmill to improve the animals' lives and organizes committees. Napoleon, however, is cunning and power-hungry. He raises a litter of puppies in secret, training them into a private army of attack dogs.
+------------------------------------------------------------------------------------------------------------
+When Snowball wins the animals' support for his windmill plan, Napoleon unleashes the dogs, **chases Snowball off the farm**, and seizes total control. From that point on, the revolution steadily corrupts:
+
+- **The commandments are quietly rewritten.** "No animal shall sleep in a bed" becomes "No animal shall sleep in a bed **with sheets**." "No animal shall drink alcohol" becomes "No animal shall drink alcohol **to excess**."
+- **The windmill is built and destroyed repeatedly** — first by a storm (which Napoleon blames on Snowball as a "traitor"), then by human attack — while the animals endure hunger and overwork, constantly told that things are better than under Jones.
+- **A propaganda machine** emerges: **Squealer**, Napoleon's eloquent mouthpiece, twists logic, spreads lies, and justifies every reversal. Napoleon himself becomes increasingly distant, living in the farmhouse and dining lavishly.
+- **Scapegoating and purges** follow. Animals who confess to "crimes" (often imagined) are executed by the dogs in brutal massacres. Fear replaces idealism.
+- **The animals' memory is systematically erased.** The sheep bleat slogans ("Four legs good, two legs bad"), history is rewritten, and the original ideals of the revolution fade.
+
+Years pass. The pigs walk on two legs, carry whips, wear clothes, and trade with humans. The animals look through the farmhouse window at a party where pigs and farmers drink together — they can no longer tell which is which.
+
+The final commandment now reads:
+
+> **"All animals are equal, but some animals are more equal than others."**
+
+## Key Characters
+
+| Character | Represents |
+|---|---|
+| **Old Major** | Karl Marx / V.I. Lenin — the revolutionary prophet |
+| **Napoleon** | Joseph Stalin — the tyrant who hijacks the revolution |
+| **Snowball** | Leon Trotsky — the exiled idealist rival |
+| **Squealer** | State propaganda / Pravda media |
+| **Boxer** | The loyal working class — "I will work harder"; sent to the knacker's when his strength fails |
+| **Benjamin** | The cynical intellectuals who see the truth but stay silent |
+| **The sheep** | The unthinking masses, easily manipulated |
+| **Mr. Jones** | Tsar Nicholas II / the old ruling order |
+| **Mr. Frederick** | Adolf Hitler (notorious for betrayal) |
+
+## Major Themes
+
+1. **The corruption of power** — revolutions can devour their own ideals
+2. **Propaganda and the manipulation of language** — control words, control thought
+3. **The rewriting of history** — those in power control the past
+4. **Class stratification** — a new elite simply replaces the old one
+5. **The betrayal of the working class** — Boxer's fate is the book's cruelest indictment
+6. **The dangers of blind obedience and gullibility**
+
+## Significance
+
+Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise to power**, but its warning is universal: *power, unchecked, corrupts — and revolutions led by the power-hungry end up recreating the oppression they overthrew*. It remains one of the most widely read political allegories in the world, precisely because its mechanisms — propaganda, scapegoating, historical revisionism, and the slow normalization of injustice — remain recognizable today.
+------------------------------------------------------------------------------------------------------------
+> **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
+------------------------------------------------------------------------------------------------------------
+
 人吃人，规则都是给普通人准备的。
 ---------------------------------------
 

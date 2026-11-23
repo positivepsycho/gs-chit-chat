@@ -19,6 +19,7 @@ The story begins on **Manor Farm**, where the animals suffer under the neglectfu
 At first, the revolution succeeds. The animals work the farm themselves, and the pigs — the smartest animals — take on leadership, with **Snowball** and **Napoleon** emerging as rivals. Snowball is idealistic and energetic; he designs a windmill to improve the animals' lives and organizes committees. Napoleon, however, is cunning and power-hungry. He raises a litter of puppies in secret, training them into a private army of attack dogs.
 ------------------------------------------------------------------------------------------------------------
 When Snowball wins the animals' support for his windmill plan, Napoleon unleashes the dogs, **chases Snowball off the farm**, and seizes total control. From that point on, the revolution steadily corrupts:
+------------------------------------------------------------------------------------------------------------
 
 - **The commandments are quietly rewritten.** "No animal shall sleep in a bed" becomes "No animal shall sleep in a bed **with sheets**." "No animal shall drink alcohol" becomes "No animal shall drink alcohol **to excess**."
 - **The windmill is built and destroyed repeatedly** — first by a storm (which Napoleon blames on Snowball as a "traitor"), then by human attack — while the animals endure hunger and overwork, constantly told that things are better than under Jones.
@@ -30,21 +31,8 @@ Years pass. The pigs walk on two legs, carry whips, wear clothes, and trade with
 
 The final commandment now reads:
 
-> **"All animals are equal, but some animals are more equal than others."**
-
-## Key Characters
-
-| Character | Represents |
-|---|---|
-| **Old Major** | Karl Marx / V.I. Lenin — the revolutionary prophet |
-| **Napoleon** | Joseph Stalin — the tyrant who hijacks the revolution |
-| **Snowball** | Leon Trotsky — the exiled idealist rival |
-| **Squealer** | State propaganda / Pravda media |
-| **Boxer** | The loyal working class — "I will work harder"; sent to the knacker's when his strength fails |
-| **Benjamin** | The cynical intellectuals who see the truth but stay silent |
-| **The sheep** | The unthinking masses, easily manipulated |
-| **Mr. Jones** | Tsar Nicholas II / the old ruling order |
-| **Mr. Frederick** | Adolf Hitler (notorious for betrayal) |
+**"All animals are equal, but some animals are more equal than others."**
+------------------------------------------------------------------------------
 
 ## Major Themes
 
@@ -55,12 +43,15 @@ The final commandment now reads:
 5. **The betrayal of the working class** — Boxer's fate is the book's cruelest indictment
 6. **The dangers of blind obedience and gullibility**
 
-## Significance
+Significance
 
 Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise to power**, but its warning is universal: *power, unchecked, corrupts — and revolutions led by the power-hungry end up recreating the oppression they overthrew*. It remains one of the most widely read political allegories in the world, precisely because its mechanisms — propaganda, scapegoating, historical revisionism, and the slow normalization of injustice — remain recognizable today.
 ------------------------------------------------------------------------------------------------------------
-> **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
+**"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
 ------------------------------------------------------------------------------------------------------------
+
+没有真相，没有道德，甚至没有法律。屁股决定脑袋
+---------------------------------------------
 
 穷在闹市无人问，富在深山有远亲。大衣哥，郭德纲
 --------------------------------------

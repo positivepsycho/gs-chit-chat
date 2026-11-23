@@ -80,6 +80,9 @@ I'm very optimistic about the future, because I think, after we've tried a lot o
 
 Congratulations!
 
+脆弱的事物喜欢安宁的环境，而反脆弱的事物则从混乱中成长，强韧的事物并不太在意环境。The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn' t care too much.
+---------------------------------
+
 2026.6.30复盘）都是人性）都是贪婪）魔戒_my precious
 ---------------------------------
 本轮6.30号见顶，有几个大的情况，第一，融资增加很快，第二，交易特别拥挤，都在电子板块，指数快速上涨，第三，长鑫存储快要上市。第四，费城半导体指数天天往上窜。第五，整个半导体板块的2季报都非常亮眼。第六，自媒体传出，字节有一个员工实现财富自由，脱离牛马。第七，

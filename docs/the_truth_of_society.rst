@@ -50,6 +50,8 @@ Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise 
 **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
 ------------------------------------------------------------------------------------------------------------
 
+金钱能解决人生中的绝大部分烦恼（100%）。毛姆在《人性的枷锁》中写道，没有足够的收入，生活的希望就被截去了一半，你的处心积虑，锱铢必较，变得渺小，卑微。
+---------------------------------------------------------
 
 没有真相，没有道德，甚至没有法律。屁股决定脑袋
 ---------------------------------------------

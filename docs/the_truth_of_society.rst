@@ -50,7 +50,7 @@ Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise 
 **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
 ------------------------------------------------------------------------------------------------------------
 
-刘姝威(蓝田)，三聚氰胺（郭利），
+刘姝威(蓝田)，三聚氰胺（郭利），长生生物（疫苗造假），
 ----------------------------------------------------------------------------------------------
 
 孙宇晨：减脂的时候，高糖高油高盐的食物要极力避免，一口不吃，就能夺回身体的主动权。精神上也有“高糖高油高盐”，就是抖音，红果，游戏这些精加工内容。把他们删掉就能夺回注意力。长期高糖高油高盐，身体垮了，一辈子一事无成。天天抖音，红果，游戏，注意力垮了，一辈子浑浑噩噩。

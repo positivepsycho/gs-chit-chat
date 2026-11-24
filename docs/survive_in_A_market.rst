@@ -1,5 +1,5 @@
 随笔229 在A市，活下去，活的好，以及，复盘20260630这一波快速上涨后的正确处理方法+杠杆怎么用（虎口夺食），总结活下去的方法
-===================================================
+=========================================================================================
 
 
 Thank you. Thank you so much. Thank you very much for that warm welcome. I am so grateful to be here back at Wellesley, especially for President [Paula] Johnson's very first commencement, and would like to thank her, the trustees, families and friends, faculty, staff and guests for understanding and perpetuating the importance of this college: what it stands for, what it has meant and what it will do in the years ahead. And most importantly, it's wonderful to be here with another green class to say, congratulations to the class of 2017!
@@ -88,7 +88,7 @@ Congratulations!
 
 2026.6.30复盘）都是人性）都是贪婪）魔戒_my precious
 ---------------------------------
-本轮6.30号见顶，有几个大的情况，第一，融资增加很快，第二，交易特别拥挤，都在电子板块，指数快速上涨，第三，长鑫存储快要上市。第四，费城半导体指数天天往上窜。第五，整个半导体板块的2季报都非常亮眼。第六，自媒体传出，字节有一个员工实现财富自由，脱离牛马。第七，
+本轮6.30号见顶，有几个大的情况，第一，融资增加很快，第二，交易特别拥挤，都在电子板块，指数快速上涨，第三，长鑫存储快要上市。第四，费城半导体指数天天往上窜。第五，整个半导体板块的2季报都非常亮眼。第六，自媒体传出，字节有一个员工实现财富自由，脱离牛马。第七，联讯仪器，申购价80左右，10多天吵到2000多。
 
 7月份长鑫打新前后出现松动：第一波，外围韩国股市和美国存储波动暴跌和融资爆仓，meta开始出租算力。第二波，接着美国开始FCC限制中国光模块，第三波，美债收益上涨，第四波，美联储加息，第五波，保险资本持续卖出。第六波，融资盘跑路。第七波，双创快速下跌，回到2024年水平。第八，
 

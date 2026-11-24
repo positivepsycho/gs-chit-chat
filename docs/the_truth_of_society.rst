@@ -50,6 +50,9 @@ Orwell wrote the book as a satire of the **Russian Revolution and Stalin's rise 
 **"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which."**
 ------------------------------------------------------------------------------------------------------------
 
+人只有一种病：穷。《我不是药神》
+----------------------------------------------------------------------------------------------
+
 刘姝威(蓝田)，三聚氰胺（郭利），长生生物（疫苗造假），
 ----------------------------------------------------------------------------------------------
 

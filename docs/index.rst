@@ -519,3 +519,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    kong_cang
 
    the_truth_of_society
+
+   fupan2_20260630

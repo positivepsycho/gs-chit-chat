@@ -521,3 +521,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    the_truth_of_society
 
    fupan2_20260630
+
+   young_man_in_future

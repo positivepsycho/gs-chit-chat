@@ -1,6 +1,96 @@
 随笔249 复盘2（20260630）善战者无赫赫之功
 =================================================================
 
+Good afternoon everyone. President Kornbluth, Chairman Gonçalves, Trustees, faculty, family, friends, and—most important—the MIT Class of 2026: congratulations.
+------------------------------------------------------------
+You've earned this. And I can tell you that standing here feels very different than I expected. I've given a lot of talks over the years, but this one is quite personal. And as you can imagine, true to Murphy's Law, I somehow managed to lose my voice this week. So please bear with me if I sound a little rough. But I couldn't be happier to be here with you, if you'll let me share a little bit of my story.
+------------------------------------------------------------
+I came to MIT in the fall of 1986. My parents dropped me off at Next House. I was 17 years old, born in Taiwan, raised in Queens. And I was pretty sure I was good at math. Then, of course, I walked into 6.001 and 6.002.
+------------------------------------------------------------
+Within about two weeks, I realized there were a lot of people at MIT who were very, very good at math. I remember staring at those first problem sets and thinking: My goodness, these are super hard. I never really pulled an all-nighter until my freshman year. It was a new experience, but it was a lot of fun doing it together with your classmates.
+
+MIT has this incredible way of pushing you further than you thought you could go. You wrestled with a problem. You blew up a circuit or two—yes, some of you have. Then somehow, the thing worked. And suddenly you realize you could build something real. That's when I started feeling like an engineer.
+
+One of the best parts of MIT is the opportunity undergraduates have to work on real research—and that truly changed my life. My first UROP was in Professor Hank Smith's lab in Building 39, which I'm told we're decommissioning and moving. We were making X-ray lithography masks for a graduate student. To be absolutely clear: at the time, I had no idea what that actually meant.
+
+But I got to put on my first bunny suit and walk into a cleanroom, and start building devices on 2-inch wafers, which was pretty state-of-the-art back then. I learned very quickly to be careful, because those wafers were really delicate—and I definitely didn't want to be the one who broke them.
+
+I ran a bunch of experiments. Most of them didn't work the way we expected. So we adjusted, and we tried again. And it was the coolest thing ever. For the first time, I wasn't just learning about technology in a classroom. I was part of a team trying to discover something new.
+
+I remember thinking: Wow. We can build things this small—tiny enough to fit on a die the size of a coin, but powerful enough to change the world. That's when I fell in love with semiconductors.
+
+Later, I had the privilege of working with Professor Dimitri Antoniadis, who became my PhD advisor. That was where I really learned how to solve problems. I remember spending weeks in the clean room fabricating devices, then bringing my wafers up to the test lab—only to discover they didn't behave at all like I expected.
+
+So I’d go back to Dimitri's office, and we'd figure out what to do next. Looking back, that was probably where I grew the most at MIT. Little by little, I went from a new graduate student learning about the field, to someone doing original research and actually contributing something new to the field.
+
+Along the way, I started believing in myself—not the confidence that I would always know the answer, but the confidence that even when I didn't know, I could figure it out.
+
+What I realize now is that MIT was teaching me something much bigger than semiconductor device physics: Mens et Manus. Mind and Hand. When I was a student, I thought it was just a motto. Now I think it captures exactly what makes MIT so special.
+
+MIT teaches you to think deeply—but it also teaches you to build, to test ideas, to keep going when the first experiment, or even the fifth, doesn't work. Over time, you start believing you can solve problems that once felt impossible.
+
+I carried that feeling with me long after I left campus. When I joined IBM, I found myself starting all over again. IBM had hundreds of thousands of employees. I was 25 years old, wondering how I could possibly make a difference in a company that big.
+
+But I learned something important very quickly: engineering doesn't care how old you are. It cares whether you have good ideas. And one of my mentors told me something I've never forgotten: Run toward the hardest problems.
+
+At the time, I wasn't sure I really knew what that meant. But I now realize it was the best advice I ever received. Hard problems really teach you what you’re capable of.
+
+Fast forward a bit: twelve years ago, I got a chance to put that lesson to the test. I had the opportunity to become CEO of AMD. AMD had a lot of potential, but the company had been through a few tough years. Some of my mentors thought taking that job was actually kind of risky.
+
+But for me, this was my dream job. This was what I'd been training for all those years: the opportunity to work at the bleeding edge of technology, on problems that really mattered.
+
+The first thing we had to do was figure out what we wanted to be when we grew up. This was a big company that had to get this right. We made a long-term bet that high-performance computing would be the most important technology of the future. And we gave our talented team the room to think big.
+
+Over the next several years, we built the technology to enable the most powerful computers in the world. And I can tell you: through all of it, I used every skill that MIT ever taught me—and then some.
+
+I've tried to put it into words, and I decided calling it the engineer's instinct feels right. It's the ability to face what seemed like an unsolvable problem, break it down, and methodically work through it step by step.
+
+But I also learned something else: the engineer's instinct is even more powerful when it's shared by a team. The greatest satisfaction of my career has been bringing people together to do something more than any of us thought was possible.
+
+And that brings me to today, and where you guys are.
+
+Over the last few decades, we've experienced several major technology shifts. The internet changed how we communicate. Mobile computing changed how we live. Cloud computing changed how we work. And now we're at the beginning of the AI wave.
+
+To me, AI is really different from all those other waves. The way I think about it: it's not just a tool that helps us do things faster—we have lots of tools. It's actually deeper than that. It has the potential to accelerate discovery in every field, and help us solve problems we've never been able to solve before.
+
+And to make it personal: the area that excites me most is what we can do in medicine and healthcare. I think we've all felt firsthand what it's like when someone you love is sick. Even with incredible doctors and the best care, you realize how hard it is for any one person, any one team, to bring together all the knowledge that's been gathered—to help in that critical moment of need.
+
+AI can help us change that. It can help doctors and researchers bring the world's best expertise to each patient and each loved one, and deliver the care that gives us the best chance of a successful outcome. This, I think, is the promise of AI at its best.
+
+The way to think about it: it makes each of us more capable. Whether you're talking about medicine, science, energy, climate—I think you could say we may discover more in the next ten years than we have in the last thirty.
+
+But let me be clear about something: technology itself does not decide what the future looks like. The best people do.
+
+For everything AI can do: AI can't decide which problems are worth solving. It can’t make the hard judgments when the data isn’t there. It can’t take responsibility for the outcomes. Those are our responsibilities. And they matter now more than ever.
+
+This is why I feel this is such an extraordinary moment to graduate from MIT. The world doesn't just need people who know how to use powerful tools. It needs people who know what to use them for: people with a sense of purpose, judgment, courage. People who look at a hard problem and say: I know this is really, really important—and we can figure this out.
+
+That is exactly who you have become here at MIT.
+
+So here's what I want to leave you with.
+
+I've been very fortunate in many ways: I have great parents, I received an extraordinary education, I've had the chance to work with great people. But I also believe I’ve been very lucky in my career.
+
+When people ask me for career advice, I often tell them: yes, you need to work really hard. But also understand that luck matters. And over time, I've come to believe that the best people find ways to make their own luck.
+
+Luck is not just being in the right place at the right time. It's taking the risk to work on something really hard. It's challenging yourself. It's choosing problems where you may not know the answer. It's surrounding yourself with people who make you better.
+
+And yes: it's believing that you—the Class of 2026—can change the world.
+
+So be incredibly ambitious about what problems you choose to solve. Run toward the hardest ones. And trust what MIT has taught you: that engineer's instinct. That's how you make your own luck.
+
+I want to take a moment to acknowledge all the families and loved ones here in the audience today. None of these graduates got here without you. Thank you for believing in them, supporting them, and helping them reach this moment. This achievement belongs to you, too.
+
+And to the Class of 2026: remember—somewhere in the years ahead, you’re going to walk into another room where you have absolutely no idea what you’re doing.
+
+You've done this before.
+
+Go figure it out.
+
+As one MIT to another: I am incredibly honored to be here with you today.
+
+Congratulations, Class of 2026.
+
 如果押对了赛道，也赚了不少钱，及时获利了结。抹干吃净的想法不能有，逃顶的想法不能有。
 ---------------------------------------------------------------------------------------
 

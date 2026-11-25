@@ -80,6 +80,9 @@ I'm very optimistic about the future, because I think, after we've tried a lot o
 
 Congratulations!
 
+保护好下蛋鸡，等风来，拒绝逆风飞翔
+-------------------------------------
+
 脆弱的事物喜欢安宁的环境，而反脆弱的事物则从混乱中成长，强韧的事物并不太在意环境。The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn' t care too much.
 ---------------------------------
 

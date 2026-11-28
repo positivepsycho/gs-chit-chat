@@ -525,3 +525,5 @@ carpe diem(All human writing carries an autobiographical meaning)
    young_man_in_future
 
    fupan3_20260630
+
+   power_of_life_inner_peace
